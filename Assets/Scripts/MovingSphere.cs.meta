@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e91228bfd6f4f40cdab0accd6381b7bb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerInputSpace: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - normalMaterial: {fileID: 2100000, guid: f3ba9cc2f46b74147a887fc2202e7d8e, type: 2}
+  - climbingMaterial: {fileID: 2100000, guid: 563871eb084e447869639cb8c9362551, type: 2}
+  - swimmingMaterial: {fileID: 2100000, guid: 1f236688f827e4ce7b5bd6cefb73810d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
